@@ -5,7 +5,8 @@ public class A {
 	public static void m1() {
 	System.out.println(id);	
 	System.out.println(id);	
-	
+	System.out.println(id);	
+	System.out.println(id);	
 	}
 	private static void m2() {
 		m1();
