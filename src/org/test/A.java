@@ -7,6 +7,8 @@ public class A {
 	System.out.println(id);	
 	System.out.println(id);	
 	System.out.println(id);	
+	
+	System.out.println("new check");
 	}
 	private static void m2() {
 		m1();
